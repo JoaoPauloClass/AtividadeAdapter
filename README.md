@@ -47,3 +47,5 @@ Formato: `connection_string;url_imagem;legenda`
 ----------
 
 ## 📊 Diagrama da Arquitetura
+![Diagrama](https://github.com/JoaoPauloClass/AtividadeAdapter/blob/main/diagramaAdapter.png)
+
